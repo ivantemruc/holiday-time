@@ -1,6 +1,6 @@
 body {width: 577.28px;
     height: 335px;
-    background: #657572;}
+    background: #C1C1C3;}
 
 .header {
     background-color: #202846;
@@ -8,14 +8,25 @@ body {width: 577.28px;
     height: 90px;
 
 }
-.header-list {list-style: none;}
+.header-list {position: absolute;
+    width: 1066px;
+    height: 57px;
+    left: 609px;
+    top: 17px;
+    list-style: none;}
 
 .logo {border-radius: 167px;position: absolute;
     width: 178.45px;
     height: 70px;
     left: 138px;
     top: 10px;}
-.site-nav {
+.site-nav {position: absolute;
+    width: 1920px;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    
+    background: #202846;
 
 }
 
