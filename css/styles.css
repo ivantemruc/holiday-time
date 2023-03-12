@@ -56,3 +56,27 @@ footer {background-color:#202846;
     width: 1920px;
     height: 90px;
     color: #EEECF1}
+
+
+
+
+
+    h1 {position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+        
+        font-family: 'PT Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 97px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+
+    }
