@@ -1,9 +1,43 @@
+body {width: 577.28px;
+    height: 335px;
+    background: #657572;}
+
+.header {
+    background-color: #202846;
+    width: 1920px;
+    height: 90px;
+
+}
+
+.logo {border-radius: 167px;position: absolute;
+    width: 178.45px;
+    height: 70px;
+    left: 138px;
+    top: 10px;}
+.site-nav {
+
+}
 
 .bg {background: url(12345.jpg);}
 
 
+.container {
+    position: relative;
+}
+.container img {position: absolute;width: 1488px;
+    height: 369px;
+    margin:left: -3px;
+    top: 0px;
+}
 
+.container h1 {position: absolute;
+     color: #EEECF1;
+}
 
+.container p {
+    position: absolute;
+    color:#EEECF1;
+}
 
 
 footer {background-color:#202846;
